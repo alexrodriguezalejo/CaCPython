@@ -58,9 +58,10 @@ h1 {
     font-family: 'Crimson Text', serif;
 }
 
-body {
-    background-color: antiquewhite;
-}
-
-
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+  }
     
